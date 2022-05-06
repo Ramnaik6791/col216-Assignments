@@ -1,7 +1,7 @@
 # col216-Assignments
 This repository consists of
 These assignments are done as part of computer architecture course, under Prof. Anshul kumar
-##Lab1 
+## Lab1 
 #Stage-1 :
 Write a function for comparing two strings. Comparison in case-sensitive as well as
 case-insensitive modes should be supported.
@@ -16,7 +16,7 @@ Result: (i) pointer to the merged list and (ii) size of the merged list
 Using the functions of stages 1 and 2, write a recursive merge-sort function.
 Result: (i) pointer to the sorted list and (ii) size of the sorted list
 
-##Lab2
+## Lab2
 Stage-1 :
 Design and testing of basic modules : ALU,Register File 16x32, Program Memory and Data Memory 64x32 each
 
